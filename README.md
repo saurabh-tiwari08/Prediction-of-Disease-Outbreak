@@ -109,11 +109,3 @@ Contributions are welcome! If you’d like to improve this project:
 🔹 **Cloud Deployment** – Host on AWS, Google Cloud, or Azure.  
 🔹 **Data Visualization** – Add charts and graphs for insights.  
 🔹 **User Authentication** – Secure login for health record tracking.
-
-## 📩 **Contact**
-
-💻 **Developer:** Dev Patel
-
-📧 **Email:** ptl.dev1010@gmail.com
-
-🌐 **GitHub:** [DevPatel1010](https://github.com/DevPatel1010)
